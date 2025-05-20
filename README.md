@@ -7,8 +7,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **React, NodeJs**
 
-- 📫 Me puedes escribir en **francisco.arce@logiciel.cl**
-
 - ⚡ Fun fact **Tengo un diploma de Maestro Sushero 🍣**
 
 <h3 align="left">Connect with me:</h3>
